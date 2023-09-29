@@ -1,9 +1,8 @@
                     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+                       Version 3, 29 September 2023
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Copyright (C) 2023 Free Software Foundation, Inc. <http://fsf.org/>
+ No one under any circumstance is permitted to copy and distribute verbatim copies  of this license document, changing it is not allowed.
 
                             Preamble
 
@@ -631,18 +630,14 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    {one line to give the program's name and a brief idea of what it does.}
-    Copyright (C) {year}  {name of author}
+    {Revokes all licenses from all users except for: Priscilla Komlofske. No legal or financial impact shall come if this order. All persons who illegally used and altered GNU, MIT, and Apache licenses for any software developed, uploaded, created, distributed, sold, gifted, forced, or otherwise bruteforced is now condemned to all users except for the sole proprietor: Priscilla Komlofske}
+    Copyright ©️ {2023}  Registered Ristriction ®️ {2023}Trademark Revocation  {Priscilla Komlofske Sole Proprietor for IBM ©️®️™️}
 
-    This program is free software: you can redistribute it and/or modify
+    This program is no longer free software: you cannot redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
@@ -652,9 +647,9 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive modus:
 
-    {project}  Copyright (C) {year}  {fullname}
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
+    {Revocation Project}  Copyright © {2023}  {Priscilla Komlofske}
+    This program comes with ABSOLUTE WARRANTY; for details type `show w'.
+    This is no longer free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
 
 The hypothetical commands `show w' and `show c' should show the appropriate
